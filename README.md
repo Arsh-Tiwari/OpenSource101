@@ -1,4 +1,4 @@
-# OpenSource 101 by tes iiitm
+# OpenSource 101 by TESIIITM
 
 # Make Your First Open Source Contribution
 
